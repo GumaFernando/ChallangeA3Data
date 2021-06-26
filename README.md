@@ -29,9 +29,9 @@ O vídeo de apresentação pode ser acompanhado aqui no youtube: https://www.you
 - Extração dos arquivos da RAIS de um servidor FTP do Ministério do Trabalho
 - Descompactação dos arquivos 7Z para txt
 - Processamento das bases, limpeza e tratamento dos dados e criação de tabelas no Databricks
-- Armazenamento da base completa em formato Parquet no data lake
+- Armazenamento da base consolidada no formato Parquet no data lake
 - Utilização do Azure Synapase para criação de tabelas externas referenciando o local dos arquivos parquet no data lake
-- Power BI para visualizção dos dados no Synapse
+- Power BI para visualização dos dados 
 
 
 
