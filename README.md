@@ -2,9 +2,9 @@
 
 Este repositório representa o projeto apresentado pela equipe 3GTeam no Hackathon da A3Data no mês de Junho de 2021.
 
-Onde os times devem implementar pipeline de extração, transformação e disponibilização de dados. Após extração, limpeza, organização e estruturação  dos dados, as perguntas chave do desafio devem ser respondidas de maneira visual. 
+O desafio foi proposto foi a construção de um pipeline de extração, transformação e disponibilização de dados de forma automatizada. Após a extração, limpeza e organização e dos dados, deven ser respondidas algumas perguntas:
 
-Perguntas Chave:
+Perguntas:
 
 1. Nos últimos 10 anos, quais foram os salários médios de homens e mulheres que trabalham com tecnologia na região sudeste do Brasil por ano?
 2. Nos últimos 10 anos, quais foram os salários médios das pessoas por nível de escolaridade que trabalhavam no setor de agronegócio na região sul do Brasil?
