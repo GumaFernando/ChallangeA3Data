@@ -18,7 +18,7 @@ O projeto consiste na construção de um Pipeline de ETL dos dados abertos da RA
 
 ### Desenvolvimento
 
-A automatização do processo foi feito em Python através de Notebooks do Databricks e a orchestração do pipeline feita no DataFactory. O armazenamento foi realizado no Data-lake do Azure. O processamento dos dados foram feito em PySpark em cluster Spark do Databricks. O Synapse Analytics criou as tabelas externas referenciando ao Datalake para serem visualizados em Dashboad via Power BI.
+A automatização do processo foi feito em Python através de Notebooks do Databricks e a orchestração do pipeline feita no DataFactory. O armazenamento foi realizado no Data-lake do Azure. O processamento dos dados foram feito em PySpark em cluster Spark do Databricks. NO Synapse Analytics foi criada uma tabela externa referenciando os arquivos Parquet na camada Refined do Datalake para que seja possível futuras análises e gerar Dashboards via Power BI.
 
 Todo o código-fonte do projeto encontra-se nesse repositório!
 
