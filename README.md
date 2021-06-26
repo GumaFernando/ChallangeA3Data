@@ -2,7 +2,7 @@
 
 Este repositório representa o projeto apresentado pela equipe 3GTeam no Hackathon da A3Data no mês de Junho de 2021.
 
-O desafio foi proposto foi a construção de um pipeline de extração, transformação e disponibilização de dados de forma automatizada. Após a extração, limpeza e organização e dos dados, deven ser respondidas algumas perguntas:
+O desafio proposto foi a construção de um pipeline de extração, transformação e disponibilização de dados de forma automatizada. Após a extração, limpeza e organização e dos dados, deven ser respondidas algumas perguntas:
 
 Perguntas:
 
